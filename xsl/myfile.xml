@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<root><item type="dict"><Date type="str">2018-03-08</Date><Seller type="str">EMCO Ltd</Seller><State type="str">Gujarat</State><City type="str">Baroda</City><Seller_Type type="str">Bulk Consumer</Seller_Type><Category type="str">ITEW2</Category><Item type="str">Central Processing Unit (CPU)</Item><Price type="number">1996.0200</Price><Is_Direct type="int">0</Is_Direct><WH_ID type="int">3</WH_ID><Recycler type="str">TES-AMM (India) Pvt. Ltd.</Recycler><Verified_Status type="str">Verified - Final</Verified_Status></item></root>
